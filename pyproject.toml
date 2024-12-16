@@ -1,0 +1,15 @@
+[build-system]
+requires = ["flit_core >=3.2,<4"]
+build-backend = "flit_core.buildapi"
+
+[project]
+name = "gpf"
+version = "0.0.1"
+description = "Digitizing the Global Proficiency Framework"
+authors = [ {name = "Fab Inc."} ]
+readme = "README.md"
+requires-python = "~=3.12"
+dependencies = [
+    "pydantic",
+    "pandas"
+]

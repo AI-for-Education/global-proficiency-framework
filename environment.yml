@@ -1,0 +1,20 @@
+name: gpf
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - conda-lock
+  - black
+  - ipykernel
+  - dvc=3.*
+  - dvc-azure=3.*
+  - pandas=2.2.*
+  - pydantic=2.7.*
+  - matplotlib=3.*
+  - plotnine=0.13.*
+  - lxml=5.*
+  - openpyxl=3.*
+  - pillow=11.*
+  - pip
+  - pip:
+    - -r requirements.txt
