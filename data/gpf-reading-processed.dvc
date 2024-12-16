@@ -1,0 +1,6 @@
+outs:
+- md5: d72fbdec811c9a3b0fa8b9d62cdabfbb.dir
+  size: 3715828
+  nfiles: 151
+  hash: md5
+  path: gpf-reading-processed
