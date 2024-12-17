@@ -1,0 +1,39 @@
+Domain,Domain_,Construct,Construct_,Subconstruct,Subconstruct_,GradeStart,GradeEnd,skill_code
+C,Comprehension of spoken or signed language,C1,Retrieve information at word level,C1.1,Comprehend spoken and signed language at the word or phrase level,1.0,2.0,C1.1.1
+C,Comprehension of spoken or signed language,C1,Retrieve information at word level,C1.1,Comprehend spoken and signed language at the word or phrase level,1.0,2.0,C1.1.2
+C,Comprehension of spoken or signed language,C1,Retrieve information at word level,C1.2,"Recognize the meaning of common grade-level words in a short, grade-level continuous text read to or signed for the learner",1.0,2.0,C1.2.1
+C,Comprehension of spoken or signed language,C2,Retrieve information at sentence or text level,C2.1,Retrieve explicit information in a short grade-level continuous text read to or signed for the learner,1.0,3.0,C2.1.1
+C,Comprehension of spoken or signed language,C3,Interpret information at sentence or text level,C3.1,Interpret information in a short grade-level continuous text read to or signed for the learner,2.0,3.0,C3.1.1
+C,Comprehension of spoken or signed language,C3,Interpret information at sentence or text level,C3.1,Interpret information in a short grade-level continuous text read to or signed for the learner,2.0,3.0,C3.1.2
+C,Comprehension of spoken or signed language,C3,Interpret information at sentence or text level,C3.1,Interpret information in a short grade-level continuous text read to or signed for the learner,2.0,3.0,C3.1.3
+C,Comprehension of spoken or signed language,C3,Interpret information at sentence or text level,C3.1,Interpret information in a short grade-level continuous text read to or signed for the learner,2.0,3.0,C3.1.4
+D,Decoding,D1,Precision,D1.1,Identify symbol-sound/fingerspelling and/or symbol-morpheme correspondences,1.0,9.0,D1.1.1
+D,Decoding,D1,Precision,D1.2,Decode isolated words,1.0,9.0,D1.2.1
+D,Decoding,D2,Fluency,D2.1,Say or sign a grade-level continuous text at pace and with accuracy,2.0,9.0,D2.1.1
+D,Decoding,D2,Fluency,D2.1,Say or sign a grade-level continuous text at pace and with accuracy,2.0,9.0,D2.1.2
+R,Reading comprehension,R1,Retrieve information,R1.1,Recognize the meaning of common grade-level words,1.0,9.0,R1.1.1
+R,Reading comprehension,R1,Retrieve information,R1.2,Retrieve explicit information in a grade-level text by direct- or close-word matching,2.0,9.0,R1.2.1
+R,Reading comprehension,R1,Retrieve information,R1.2,Retrieve explicit information in a grade-level text by direct- or close-word matching,2.0,9.0,R1.2.2
+R,Reading comprehension,R1,Retrieve information,R1.2,Retrieve explicit information in a grade-level text by direct- or close-word matching,2.0,9.0,R1.2.3
+R,Reading comprehension,R1,Retrieve information,R1.3,Retrieve explicit information in a grade-level text by synonymous word matching,3.0,9.0,R1.3.1
+R,Reading comprehension,R1,Retrieve information,R1.3,Retrieve explicit information in a grade-level text by synonymous word matching,3.0,9.0,R1.3.2
+R,Reading comprehension,R1,Retrieve information,R1.3,Retrieve explicit information in a grade-level text by synonymous word matching,3.0,9.0,R1.3.3
+R,Reading comprehension,R2,Interpret information,R2.1,Identify the meaning of unknown words and expressions in a grade-level text,3.0,9.0,R2.1.1
+R,Reading comprehension,R2,Interpret information,R2.2,Make inferences in a grade-level text ,3.0,9.0,R2.2.1
+R,Reading comprehension,R2,Interpret information,R2.2,Make inferences in a grade-level text ,3.0,9.0,R2.2.2
+R,Reading comprehension,R2,Interpret information,R2.2,Make inferences in a grade-level text ,3.0,9.0,R2.2.3
+R,Reading comprehension,R2,Interpret information,R2.2,Make inferences in a grade-level text ,3.0,9.0,R2.2.4
+R,Reading comprehension,R2,Interpret information,R2.2,Make inferences in a grade-level text ,3.0,9.0,R2.2.5
+R,Reading comprehension,R2,Interpret information,R2.2,Make inferences in a grade-level text ,3.0,9.0,R2.2.6
+R,Reading comprehension,R2,Interpret information,R2.2,Make inferences in a grade-level text ,3.0,9.0,R2.2.7
+R,Reading comprehension,R2,Interpret information,R2.2,Make inferences in a grade-level text ,3.0,9.0,R2.2.8
+R,Reading comprehension,R2,Interpret information,R2.3,Identify the main and secondary ideas in a grade-level text ,3.0,9.0,R2.3.1
+R,Reading comprehension,R2,Interpret information,R2.3,Identify the main and secondary ideas in a grade-level text ,3.0,9.0,R2.3.2
+R,Reading comprehension,R3,Reflect on information,R3.1,Identify the purpose and audience of a text,4.0,9.0,R3.1.1
+R,Reading comprehension,R3,Reflect on information,R3.1,Identify the purpose and audience of a text,4.0,9.0,R3.1.2
+R,Reading comprehension,R3,Reflect on information,R3.1,Identify the purpose and audience of a text,4.0,9.0,R3.1.3
+R,Reading comprehension,R3,Reflect on information,R3.2,Evaluate a text with justification,4.0,9.0,R3.2.1
+R,Reading comprehension,R3,Reflect on information,R3.2,Evaluate a text with justification,4.0,9.0,R3.2.2
+R,Reading comprehension,R3,Reflect on information,R3.3,Evaluate the status of claims made in a text,6.0,9.0,R3.3.1
+R,Reading comprehension,R3,Reflect on information,R3.3,Evaluate the status of claims made in a text,6.0,9.0,R3.3.2
+R,Reading comprehension,R3,Reflect on information,R3.4,Evaluate the effectiveness of a text,8.0,9.0,R3.4.1

@@ -1,5 +1,6 @@
 # %%
 import copy
+import importlib
 import json
 from typing import List, Optional
 
@@ -18,7 +19,7 @@ from .gpf_item import (
     levelLegendDict,
 )
 
-DATADIR = PROJECT_ROOT / "GPF-Reading/extracted_files"
+DATADIR = importlib.resources.files().joinpath("gpf_data")
 
 
 def slice_skill_code(skill_code: str) -> tuple:
@@ -54,7 +55,7 @@ def get_code_structure(skill_code: str) -> dict:
 class DataLoader:
     def __init__(self, data_dir=DATADIR):
         self.data_dir = data_dir
-        self.grade_dir = data_dir / "appendix-b"
+        self.grade_dir = data_dir / "appendix-b-texts"
         self.skill_df = pd.read_csv(data_dir / "read-skills.csv")
         self.question_df = pd.read_csv(data_dir / "read-appendix-c.csv")
         self.items_df = pd.read_csv(data_dir / "reading-appendix-b-material.csv")
