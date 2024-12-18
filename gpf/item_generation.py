@@ -386,7 +386,7 @@ def get_question_data(item: Item) -> QuestionData:
     return out
 
 
-def get_all_item_flat(domains=["C", "R", "D"]):
+def get_all_items_flat(domains=["C", "R", "D"]):
 
     dataLoader = DataLoader()
     skill_codes = get_unique_skills()
