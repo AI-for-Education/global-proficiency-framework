@@ -12,9 +12,12 @@ dependencies:
   - pydantic=2.7.*
   - matplotlib=3.*
   - plotnine=0.13.*
-  - lxml=5.*
+  - lxml=5.3.*
   - openpyxl=3.*
   - pillow=11.*
+  - scikit-learn=1.5.*
+  - seaborn=0.13.*
+  - tabula-py=2.*
   - pip
   - pip:
     - -r requirements.txt
