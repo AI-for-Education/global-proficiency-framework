@@ -1,6 +1,7 @@
 from __future__ import annotations
 
-from typing import Literal, List, Optional
+from typing import List, Literal, Optional
+
 from pydantic import BaseModel, Field
 
 levelLegendDict = {"P": "Partial", "M": "Meets", "E": "Exceeds"}
