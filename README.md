@@ -28,7 +28,7 @@ The conda environment includes [DVC](https://dvc.org/) which is used to version 
 
 The GPF is a structured collection of foundational language skills across grades 2-9. Each skill is clearly defined and skills are organised in a heirarchy of construct and subconstruct across three domains. For example, the first skill in the reading domain is coded as *R1.1.1: Recognise the meaning of common grade-level words*. This skill applies to all grade levels 2-9. In this case, it is the only skill under subconstruct *R1.1*, which is part of construct *R1: Retrieve information*. This example illustrates the heirarchical structure of skills, but also the interdependence between the grade-level of the material and the definition of the skill. 
 
-### Heirarchical structure of GPF Reading Skills
+### Hierarchical structure of GPF Reading Skills
 
 ![Hierarchical structure of GPF](plots/Table2.png)
 *Table 2, reproduced from the GPF for Reading*
