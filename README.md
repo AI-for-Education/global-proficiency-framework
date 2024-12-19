@@ -1,6 +1,6 @@
 # Digitizing the Global Proficiency Framework
 
-The [Global Proficiency Framework](https://www.edu-links.org/resources/global-proficiency-framework-reading-and-mathematics) describes structured framework of specific skills in foundational literacy and numarcy in reading and mathematics across grades 2 to 9. This is presented in the form of a detailed PDF document outlining the structure of the framework with example assessment items.
+The [Global Proficiency Framework](https://www.edu-links.org/resources/global-proficiency-framework-reading-and-mathematics) describes structured framework of specific skills in foundational literacy and numeracy in reading and mathematics across grades 2 to 9. This is presented in the form of a detailed PDF document outlining the structure of the framework with example assessment items.
 
 This repository contains a digitized version of the GPF for Reading, including the example assessment items, to support and enable development of computational tools based on this framework.
 
@@ -26,7 +26,7 @@ The conda environment includes [DVC](https://dvc.org/) which is used to version 
 
 ## About the GPF for Reading
 
-The GPF is a structured collection of foundational language skills across grades 2-9. Each skill is clearly defined and skills are organised in a heirarchy of construct and subconstruct across three domains. For example, the first skill in the reading domain is coded as *R1.1.1: Recognise the meaning of common grade-level words*. This skill applies to all grade levels 2-9. In this case, it is the only skill under subconstruct *R1.1*, which is part of construct *R1: Retrieve information*. This example illustrates the heirarchical structure of skills, but also the interdependence between the grade-level of the material and the definition of the skill. 
+The GPF is a structured collection of foundational language skills across grades 2-9. Each skill is clearly defined and skills are organised in a hierarchy of construct and subconstruct across three domains. For example, the first skill in the reading domain is coded as *R1.1.1: Recognise the meaning of common grade-level words*. This skill applies to all grade levels 2-9. In this case, it is the only skill under subconstruct *R1.1*, which is part of construct *R1: Retrieve information*. This example illustrates the hierarchical structure of skills, but also the interdependence between the grade-level of the material and the definition of the skill. 
 
 ### Hierarchical structure of GPF Reading Skills
 
@@ -34,7 +34,7 @@ The GPF is a structured collection of foundational language skills across grades
 *Table 2, reproduced from the GPF for Reading*
 
 Each skill is defined for three different levels of acheivement: *partially meets* (P), *meets* (M), or *exceeds* (E).
-Difference subconstructs have different numbers of skills. The distribution of skills across the heirarchy is illustrated below with red circles:
+Difference subconstructs have different numbers of skills. The distribution of skills across the hierarchy is illustrated below with red circles:
 
 ![Skills breakdown](plots/overview-tree-counts.svg)
 
@@ -42,7 +42,7 @@ The digitized table of skills is available at [data/gpf-reading-processed/read-s
 
 ## Assessing GPF Reading Skills
 
-The purpose of carefully defining this structured heirarchy of skills is to inform assessment and better understand students level of literacy. The GPF document includes example assessment items to illustrate how each skill would be assessed. However, the GPF is not a test instrument; most skills have only one or two example questions, and some skills don't have any. These are illustrative examples to help expert raters align or design assesments for the specific GPF skills, so results from different contexts and countries can be compared (for example, percentage of students at grade 4 who meet or exceed a certain skill).
+The purpose of carefully defining this structured hierarchy of skills is to inform assessment and better understand students level of literacy. The GPF document includes example assessment items to illustrate how each skill would be assessed. However, the GPF is not a test instrument; most skills have only one or two example questions, and some skills don't have any. These are illustrative examples to help expert raters align or design assessments for the specific GPF skills, so results from different contexts and countries can be compared (for example, percentage of students at grade 4 who meet or exceed a certain skill).
 
 ### GPF example assessments
 
