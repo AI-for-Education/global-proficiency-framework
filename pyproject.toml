@@ -10,6 +10,13 @@ authors = [ {name = "Fab Inc."} ]
 readme = "README.md"
 requires-python = "~=3.12"
 dependencies = [
-    "pydantic == 2.7.*",
-    "pandas == 2.2.*"
+    "pydantic == 2.*",
+    "pandas == 2.2.*",
+    "importlib>=1.0.4",
+    "openpyxl>=3.1.5",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=6.29.5",
 ]
