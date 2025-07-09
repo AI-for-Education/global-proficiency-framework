@@ -1,5 +1,5 @@
-from gpf_maths.item_generation import load_gpf_maths, get_unique_skills
-
+#%%
+from gpf.math.item_generation import load_gpf_maths, get_unique_skills
 dl = load_gpf_maths()
 skill_ids = get_unique_skills()
 skill = dl.get_skill(skill_ids[0])
@@ -20,3 +20,5 @@ proficiency = [
     for sub_construct in construct.sub_constructs
     for proficency in sub_construct.proficiencies
 ]
+
+# %%

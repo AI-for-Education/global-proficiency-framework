@@ -2,9 +2,9 @@ import pandas as pd
 from re import compile
 import numpy as np
 from typing import Literal, Optional
-from gpf import PROJECT_ROOT
-from gpf.gpf_item import Item, QuestionData
-from gpf_item import (
+from .. import PROJECT_ROOT
+from ..gpf_item import Item, QuestionData
+from .gpf_item import (
     GpfMaths,
     Domain,
     Skill,
@@ -14,7 +14,7 @@ from gpf_item import (
     ProficiencyMastery,
 )
 
-DATA_DIR = "gpf_maths/gpf_data/GPF_Math_Tables_Final.xlsx"
+DATA_DIR = PROJECT_ROOT / "gpf" / "math" / "gpf_data/GPF_Math_Tables_Final.xlsx"
 
 
 def _split_description(
